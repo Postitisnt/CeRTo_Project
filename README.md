@@ -10,7 +10,7 @@ In the ***"Prototypes"*** folder are:
 - A Twine protptype that aims at demonstrate what it would be to take part to the _in-loco_ experience at the Certosa Monumental Cemetery.
 
 
-This project has been realized for the course _"Interaction media design"_ of the master's degree in Digital Humanities and Digital Knowledge of the UNiversity of Bologna.
+This project has been realized for the _"Interaction media design"_ course of the master's degree in Digital Humanities and Digital Knowledge of the University of Bologna.
 
 
 **Collaborators:**
